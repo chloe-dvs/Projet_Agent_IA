@@ -5,7 +5,7 @@
 
 | # | Field | Your Answer |
 |---|---|---|
-| 1 | **Group name, members and private repository URL** | **Group:** GRP04 <br> **Members:** Kenza Mouktabil, Rihab Semmar, Chloé Desvignes, Bastien Moriconi <br> **Repository:** [GitHub URL] |
+| 1 | **Group name, members and private repository URL** | **Group:** GRP04 <br> **Members:** Kenza Mouktabil, Rihab Semmar, Chloé Desvignes, Bastien Moriconi <br> **Repository:** [[GitHub URL]](https://github.com/chloe-dvs/Projet_Agent_IA.git) |
 | 2 | **Topic (catalogue number or own topic)** | Topic 9 — Course Planning Tutor |
 | 3 | **Target user** | [To complete] |
 | 4 | **Problem and current pain** | [To complete] |
