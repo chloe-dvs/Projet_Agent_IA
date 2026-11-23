@@ -10,7 +10,7 @@
 | 3 | **Target user** | IMT Mines Ales - Students |
 | 4 | **Problem and current pain** | Students often struggle to balance multiple subjects, exam deadlines, and limited study time. Traditional planning tools do not automatically consider course difficulty, individual progress, or changing availability, resulting in inefficient revision schedules and increased stress.  |
 | 5 | **What the agent does, in 3 sentences** | The agent analyzes course materials, exam dates, student availability, and learning priorities to identify revision needs. <br> It generates a personalized study schedule by prioritizing subjects and allocating available study time. <br> It tracks student progress and adapts the schedule when deadlines, availability, or learning needs change, with student approval before saving changes. |
-| 6 | **Success criterion (metric and target)** | Objectifs =>|
+| 6 | **Success criterion (metric and target)** | Objectifs =>
 
 1. **Revision Goal Achievement Rate:** At least 80% of the planned learning objectives are successfully completed during revision sessions.
 2. **User Satisfaction (REX):** An average satisfaction score of at least 4/5, collected through user feedback after testing the agent.
