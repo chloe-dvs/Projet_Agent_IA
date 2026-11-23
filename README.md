@@ -10,11 +10,7 @@
 | 3 | **Target user** | IMT Mines Ales - Students |
 | 4 | **Problem and current pain** | Students often struggle to balance multiple subjects, exam deadlines, and limited study time. Traditional planning tools do not automatically consider course difficulty, individual progress, or changing availability, resulting in inefficient revision schedules and increased stress.  |
 | 5 | **What the agent does, in 3 sentences** | The agent analyzes course materials, exam dates, student availability, and learning priorities to identify revision needs. <br> It generates a personalized study schedule by prioritizing subjects and allocating available study time. <br> It tracks student progress and adapts the schedule when deadlines, availability, or learning needs change, with student approval before saving changes. |
-| 6 | **Success criterion (metric and target)** | Objectifs =>
-
-1. **Revision Goal Achievement Rate:** At least 80% of the planned learning objectives are successfully completed during revision sessions.
-2. **User Satisfaction (REX):** An average satisfaction score of at least 4/5, collected through user feedback after testing the agent.
-3. **Learning Performance:** Improvement in quiz scores before and after revision sessions, with a target of at least 10%. Actual exam grades will be considered as a long-term evaluation indicator. |
+| 6 | **Success criterion (metric and target)** | Objectifs =>  **Revision Goal Achievement Rate:** At least 80% of the planned learning objectives are successfully completed during revision sessions. **User Satisfaction (REX):** An average satisfaction score of at least 4/5, collected through user feedback after testing the agent.**Learning Performance:** Improvement in quiz scores before and after revision sessions, with a target of at least 10%. Actual exam grades will be considered as a long-term evaluation indicator. |
 
 | 7 | **Architecture: orchestration and agentic patterns** | [Orchestrator, patterns, workflow] |
 | 8 | **Tools: name, input, output, one line each** | [Tool 1: input → output] <br> [Tool 2: input → output] <br> [Tool 3: input → output] |
