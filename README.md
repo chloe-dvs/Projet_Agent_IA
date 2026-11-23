@@ -10,7 +10,7 @@
 | 3 | **Target user** | IMT Mines Ales - Students |
 | 4 | **Problem and current pain** | Students often struggle to balance multiple subjects, exam deadlines, and limited study time. Traditional planning tools do not automatically consider course difficulty, individual progress, or changing availability, resulting in inefficient revision schedules and increased stress.  |
 | 5 | **What the agent does, in 3 sentences** | The agent analyzes course materials, exam dates, student availability, and learning priorities to identify revision needs. <br> It generates a personalized study schedule by prioritizing subjects and allocating available study time. <br> It tracks student progress and adapts the schedule when deadlines, availability, or learning needs change, with student approval before saving changes. |
-| 6 | **Success criterion (metric and target)** | [Metric + measurable target] |
+| 6 | **Success criterion (metric and target)** | Objectifs => Taux de validation des objectifs par seance de revision, ressenti user(REX apres test), Note d'exams |
 | 7 | **Architecture: orchestration and agentic patterns** | [Orchestrator, patterns, workflow] |
 | 8 | **Tools: name, input, output, one line each** | [Tool 1: input → output] <br> [Tool 2: input → output] <br> [Tool 3: input → output] |
 | 9 | **Data sources: access, size, licence, personal data** | [Data sources, access, size, licence, privacy] |
