@@ -9,7 +9,7 @@
 | 2 | **Topic (catalogue number or own topic)** | Topic 9 — Course Planning Tutor |
 | 3 | **Target user** | IMT Mines Ales - Students |
 | 4 | **Problem and current pain** | Students often struggle to balance multiple subjects, exam deadlines, and limited study time. Traditional planning tools do not automatically consider course difficulty, individual progress, or changing availability, resulting in inefficient revision schedules and increased stress.  |
-| 5 | **What the agent does, in 3 sentences** | [Sentence 1] <br> [Sentence 2] <br> [Sentence 3] |
+| 5 | **What the agent does, in 3 sentences** | The agent analyzes course materials, exam dates, student availability, and learning priorities to identify revision needs. <br> It generates a personalized study schedule by prioritizing subjects and allocating available study time. <br> It tracks student progress and adapts the schedule when deadlines, availability, or learning needs change, with student approval before saving changes. |
 | 6 | **Success criterion (metric and target)** | [Metric + measurable target] |
 | 7 | **Architecture: orchestration and agentic patterns** | [Orchestrator, patterns, workflow] |
 | 8 | **Tools: name, input, output, one line each** | [Tool 1: input → output] <br> [Tool 2: input → output] <br> [Tool 3: input → output] |
