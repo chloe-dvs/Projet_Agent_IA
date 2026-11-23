@@ -14,7 +14,7 @@
 
 1. **Revision Goal Achievement Rate:** At least 80% of the planned learning objectives are successfully completed during revision sessions.
 2. **User Satisfaction (REX):** An average satisfaction score of at least 4/5, collected through user feedback after testing the agent.
-3. **Learning Performance:** Improvement in quiz scores before and after revision sessions, with a target of at least 10%. Actual exam grades will be considered as a long-term evaluation indicator.
+3. **Learning Performance:** Improvement in quiz scores before and after revision sessions, with a target of at least 10%. Actual exam grades will be considered as a long-term evaluation indicator. |
 
 | 7 | **Architecture: orchestration and agentic patterns** | [Orchestrator, patterns, workflow] |
 | 8 | **Tools: name, input, output, one line each** | [Tool 1: input → output] <br> [Tool 2: input → output] <br> [Tool 3: input → output] |
