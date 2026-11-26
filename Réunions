@@ -1,0 +1,9 @@
+26/11
+
+Pour les préférences, quel format ? Formulaire, texte
+Architecture : enlever administrateur, sauf si onglet admin dans notre application
+Comment exporter le planning ? Quel format ? Format ical pour exporter calendrier
+
+Use case sur 2 départements pour rendre plus simple, car tous les départements n'ont pas tous des descriptifs par module -> 2IA seulement ?
+
+Persona : 5 max, simplifier les préférences
