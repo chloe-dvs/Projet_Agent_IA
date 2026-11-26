@@ -12,7 +12,7 @@
 | 5 | **What the agent does, in 3 sentences** | The agent analyzes course materials, exam dates, student availability, and learning priorities to identify revision needs. <br> It generates a personalized study schedule by prioritizing subjects and allocating available study time. <br> It tracks student progress and adapts the schedule when deadlines, availability, or learning needs change, with student approval before saving changes. |
 | 6 | **Success criterion (metric and target)** | Objectifs =>  **Revision Goal Achievement Rate:** At least 80% of the planned learning objectives are successfully completed during revision sessions. **User Satisfaction (REX):** An average satisfaction score of at least 4/5, collected through user feedback after testing the agent.**Learning Performance:** Improvement in quiz scores before and after revision sessions, with a target of at least 10%. Actual exam grades will be considered as a long-term evaluation indicator. |
 | 7 | **Architecture: orchestration and agentic patterns** | ReAct loop, orchestrated with LangGraph combined with a RAG pipeline.|
-| 8 | **Tools: name, input, output, one line each** | [Tool 1: input → output] <br> [Tool 2: input → output] <br> [Tool 3: input → output] |
+| 8 | **Tools: name, input, output, one line each** | [load_syllabus: csv_path → subject_list] <br> [Tool 2: input → output] <br> [Tool 3: input → output] |
 | 9 | **Data sources: access, size, licence, personal data** | [Data sources, access, size, licence, privacy] |
 | 10 | **Human approval point: which action, who approves** | [Action requiring approval + reviewer] |
 | 11 | **LLM and stack choices, with any change from the defaults** | [LLM, frameworks, databases, libraries] |
